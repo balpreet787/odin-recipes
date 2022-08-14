@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(27, 242, 206);
+}
+.food
+{
+    border-radius: 33%;
+    width: 300px;
+    height: 300px;
+    padding: 130px;
+}
+h1{
+    font-size: 100px;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #ffff;
+}
